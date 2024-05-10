@@ -1,4 +1,5 @@
-# print('hello world')
+print('hello world')
+print('after git added')
 
 # for i in range(0,11):
 #     print('13 * {} = {}'.format(i,13*i))
@@ -13,8 +14,8 @@
 
 # print('The simple intrest of given values is: Rs.{}'.format(SI))
 
-v = 2
-if(v == 1):
-    print("inside if statement")
-else:
-    print("inside else statment")
+# v = 2
+# if(v == 1):
+#     print("inside if statement")
+# else:
+#     print("inside else statment")
